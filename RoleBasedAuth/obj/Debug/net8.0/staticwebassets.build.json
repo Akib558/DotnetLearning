@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DFeshzTFcx8sRepOPzwHYHpF4HP6eNH0lQcbu5qCb3g=",
+  "Source": "RoleBasedAuth",
+  "BasePath": "_content/RoleBasedAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
