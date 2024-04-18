@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj": {}
+    "c:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj": {
+    "c:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj",
+        "projectUniqueName": "c:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj",
         "projectName": "RoleBasedAuth",
-        "projectPath": "C:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj",
+        "projectPath": "c:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\RoleBasedAuth.csproj",
         "packagesPath": "C:\\Users\\TN-99346\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\obj\\",
+        "outputPath": "c:\\Users\\TN-99346\\Documents\\Dotnet\\Learning Dotnet\\RoleBasedAuth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

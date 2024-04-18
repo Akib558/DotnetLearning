@@ -1,0 +1,15 @@
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\bin\Debug\net8.0\ObserverPatternSimple.exe
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\bin\Debug\net8.0\ObserverPatternSimple.deps.json
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\bin\Debug\net8.0\ObserverPatternSimple.runtimeconfig.json
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\bin\Debug\net8.0\ObserverPatternSimple.dll
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\bin\Debug\net8.0\ObserverPatternSimple.pdb
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.AssemblyInfoInputs.cache
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.AssemblyInfo.cs
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.csproj.CoreCompileInputs.cache
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.sourcelink.json
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.dll
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\refint\ObserverPatternSimple.dll
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.pdb
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ObserverPatternSimple.genruntimeconfig.cache
+C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\ObserverPatternSimple\obj\Debug\net8.0\ref\ObserverPatternSimple.dll

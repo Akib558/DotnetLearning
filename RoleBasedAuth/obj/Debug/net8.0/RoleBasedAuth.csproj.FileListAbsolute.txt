@@ -33,3 +33,4 @@ C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\RoleBasedAuth\bin\Debug\net8.
 C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\RoleBasedAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\RoleBasedAuth\obj\Debug\net8.0\RoleBasedAuth.csproj.AssemblyReference.cache
 C:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\RoleBasedAuth\obj\Debug\net8.0\RoleBasedAuth.csproj.CopyComplete
+c:\Users\TN-99346\Documents\Dotnet\Learning Dotnet\RoleBasedAuth\obj\Debug\net8.0\RoleBasedAuth.sourcelink.json
