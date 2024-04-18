@@ -14,8 +14,25 @@ var app = builder.Build();
 // app.UseMiddleware<MyMiddleware>();
 
 app.MyMiddleware();
+// app.MyMiddleware2();
 
-app.MyMiddleware2();
+
+// app.MyMiddle
+
+
+
+app.UseWhen(
+    context => context.Request.Query.ContainsKey("IsAuthorized") && context.Request.Query["IsAuthorized"] == "true",
+    // app => app.Use(
+    //     async (context, next) =>
+    //     {
+    //         await context.Response.WriteAsync("Hello, this response is directly from the Run method of the app object.");
+    //         await next();
+    //     }
+    // )
+    app => app.MyMiddleware2()
+);
+
 
 
 app.Use(async (HttpContext context, RequestDelegate next) =>
