@@ -8,4 +8,11 @@ namespace MiddlwareLearning.CustomMiddleware
             await next(context);
         }
     }
+    public static class MyMiddlewareExtensions
+    {
+        public static IApplicationBuilder MyMiddleware(this IApplicationBuilder builder)
+        {
+            return builder.UseMiddleware<MyMiddleware>();
+        }
+    }
 }

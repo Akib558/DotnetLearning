@@ -11,7 +11,11 @@ var app = builder.Build();
 // app.MapGet("/", () => "Hello World!");
 
 
-app.UseMiddleware<MyMiddleware>();
+// app.UseMiddleware<MyMiddleware>();
+
+app.MyMiddleware();
+
+app.MyMiddleware2();
 
 
 app.Use(async (HttpContext context, RequestDelegate next) =>
